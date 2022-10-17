@@ -1,0 +1,29 @@
+<script src="webjars/jquery/1.9.1/jquery.min.js"></script>
+<script src="/includes/resources/static/jquery.isloading.js" type="text/javascript"></script>
+<!-- <script src="/includes/resources/static/jquery.isloading.js" type="text/javascript"></script>
+<script src="/includes/resources/static/jquery-migrate-1.2.1.min.js" type="text/javascript"></script> -->
+<script src="webjars/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script
+	src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
+<script>
+	$('#targetDate').datepicker({
+		format : 'dd/mm/yyyy'
+	});
+	
+	function showIsLoading(textToShow) {
+		if (!$(".isloading-overlay")[0]) {
+			$.isLoading({ text: textToShow });
+		} else {
+			$("#loading-div > p").html(textToShow);
+		}
+	}
+	
+	function hideIsLoading() {
+		if ($(".isloading-overlay")[0]) {
+			$.isLoading("hide");
+		}
+	}
+</script>
+
+</body>
+</html>

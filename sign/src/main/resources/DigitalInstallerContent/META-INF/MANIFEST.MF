@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Class-Path: 
+Created-By: 1.8.0_202-b08 (Oracle Corporation)
+Main-Class: com.fd.firmaDigital.Installer
+
+Name: com/fd/firmaDigital/sc.jpg
+SHA-256-Digest: v+valqi8DmHr1Ahwn3QYLO7D0MLJw0FWnXOVEhd9so8=
+
+Name: com/fd/firmaDigital/fd.jpg
+SHA-256-Digest: Zt/FBybUfWK5TCZWrzRwYBqnJYxebbGVjvK7vCsIrP0=
+
+Name: com/soin/firmaDigital/Utils$1.class
+SHA-256-Digest: yZHiPj4a02lulMlzmukCAcjh01/AaflR1VJIVRQc6y8=
+
+Name: com/fd/firmaDigital/Installer.class
+SHA-256-Digest: SwOFEQ1QFKATu5rV3x6/NA1cK3aPMQSBDpSeLlTSzPA=
+
+Name: com/fd/firmaDigital/FirmarDocs.lnk
+SHA-256-Digest: kMqYjStbaiYzUXaONC9K0W8KYj3yEpZ/yzxM+at+WCk=
+
+Name: com/fd/firmaDigital/fd.ico
+SHA-256-Digest: Zja59sALKzeC4LNOPLrj7cwrCBJua6DxnpUy4OimezQ=
+
+Name: com/fd/firmaDigital/Checksum.class
+SHA-256-Digest: tqVA3Ij/7kSAg3Ua87fjZ/ioZYKAjG4at+3xFaTq8fs=
+
+Name: com/fd/firmaDigital/AAA_InstallerVersion.class
+SHA-256-Digest: nfURVNCDaUfozXi+6olLfirez9fuziCwXsuJ5baD4Fw=
+
+Name: com/fd/firmaDigital/frmCargando.class
+SHA-256-Digest: tw8vDswkReh2YOl+ybyT/YfeennmIMW7wM8j5REkjK0=
+
+Name: com/fd/firmaDigital/Installer$StreamReader.class
+SHA-256-Digest: FcHqLbpnnMzo5gWlbqoEjcmfBZeoF2WvNWMybBLRFO8=
+
+Name: com/soin/firmaDigital/Utils.class
+SHA-256-Digest: N9mMAY7zC1IPRVkT9/XBl7S+v93XYTK+q0MGTahsejk=
+
